@@ -2,6 +2,7 @@
 layout: post
 title: Why Every Developer should have their Own Blog 🔥🔥🔥
 date: '2019-10-12T22:25:00.000-07:00'
+image: assets/images/developer-blog.png
 author: Kishore
 tags:
 - Blog
