@@ -71,7 +71,7 @@ So, choose your suitable platform to write your first blog.
 As a developer, we will be sharing a lot of code snippets if the code is not formatted and highlighted properly users will have a hard time reading and understanding your code. There are many ways to format your code. As we are just starting with our blog we will reduce the customization and concentrate on the content. So the best way is to use Gists, they are formatted and highlighted ready for us, we just need to copy and paste the embedding Html in our blog. Go to gist.github.com, create code snippets and start sharing. See how easy it is to share the code which is formatted and highlighted.
 
 ## Publish your Blog
-After you are done setting up your blog and writing some useful posts, start sharing them. Find user groups in social sites that match your niche and start sharing your content there, so that it reaches your targetted audience. If your targetted audience is from a particular country, register your blog with the country's local directories. For example, http://www.usalistingdirectory.com/science_and_technology/ with the appropriate category selected.
+After you are done setting up your blog and writing some useful posts, start sharing them. Find user groups in social sites that match your niche and start sharing your content there, so that it reaches your targetted audience. If your targetted audience is from a particular country, register your blog with the country's local directories. For example, with the appropriate category selected.
 
 
 Learn what are the marketing tools available and how to use them to reach your target audience in my upcoming articles.
