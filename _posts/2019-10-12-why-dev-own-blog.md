@@ -41,10 +41,10 @@ Just complete this checklist and you will have a blog of your own.
 
 ## Checklist
 
-🗹 Choose a Name for your blog
-🗹 Choose a Blogging platform
-🗹 How to Present Code Snippets
-🗹 Finally, Publish your Blog
+- 🗹 Choose a Name for your blog
+- 🗹 Choose a Blogging platform
+- 🗹 How to Present Code Snippets
+- 🗹 Finally, Publish your Blog
 
 Once you go through the checklist one by one you will find this process very easy.
 
