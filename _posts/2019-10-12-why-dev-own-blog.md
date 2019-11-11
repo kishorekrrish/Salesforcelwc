@@ -39,7 +39,7 @@ I am a developer and I have a blog of my own, so can you. It's not as complicate
 
 Just complete this checklist and you will have a blog of your own.
 
-##Checklist
+## Checklist
 
 🗹 Choose a Name for your blog
 🗹 Choose a Blogging platform
