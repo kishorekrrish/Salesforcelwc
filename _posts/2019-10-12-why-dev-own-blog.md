@@ -5,10 +5,6 @@ date: '2019-10-12T22:25:00.000-07:00'
 author: Kishore
 tags:
 - Blog
-modified_time: '2019-11-07T09:24:35.371-08:00'
-thumbnail: https://1.bp.blogspot.com/-Jinwfd_24YQ/XYev0vMBCaI/AAAAAAAAAa4/qWshnu4crec553IZ9OO-0iA-xvWa1I2UACLcBGAsYHQ/s72-c/developer-blog-compressor.png
-blogger_id: tag:blogger.com,1999:blog-1420289748500157217.post-3169943857882768193
-blogger_orig_url: https://www.salesforcelwc.in/2019/09/why-developer-own-blog.html
 ---
 Why Every Developer should have their Own Blog. In a world, with millions of developers, it may be hard for an average developer to stand-out. If you ask me why a developer should have a blog, I would give a lot of reasons and obviously will be bored listening to them all. So I have stated some reasons that would interest you.
 
